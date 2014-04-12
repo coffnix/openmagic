@@ -1,8 +1,5 @@
 #!/bin/bash
 # Feito por coffnix
-# https://github.com/isgroup-srl/openmagic.git
-#
-# cd /opt ; git clone ; voila! ;)
 
 
 
